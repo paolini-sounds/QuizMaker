@@ -1,0 +1,40 @@
+0 Which of the following is not a valid variable name in Python?
+a my_variable
+b 123variable*
+c _my_variable
+d myVariable
+1 What does the print() function do in Python?
+a Accepts user input
+b Displays output to the console*
+c Performs mathematical calculations
+d Reads data from a file
+2 Which of the following statements is used to create a function in Python?
+a def*
+b function
+c create
+d func
+3 What does the len() function do in Python?
+a Returns the length of a list or string*
+b Returns the largest value in a list
+c Returns the smallest value in a list
+d Returns the sum of all elements in a list
+4 Which of the following data types is mutable in Python?
+a Tuple
+b String
+c List*
+d Integer
+5 What is the correct way to comment multiple lines in Python?
+a /* comment */
+b # comment #
+c '' comment '''*
+d # comment
+6 What is the correct syntax to open a file in Python?
+a open("file.txt", "r")*
+b open("file.txt")
+c read("file.txt")
+d open.file("file.txt", "r")
+7 What does the import statement do in Python?
+a Exports functions to other files
+b Imports external modules or libraries*
+c Imports data from a database
+d Exports variables to other files
